@@ -8,6 +8,7 @@ export default function UserMainPage() {
           <h1 className="text-3xl font-bold">사용자 측 메인 화면</h1>
         </div>
       </header>
+      <EnvDisplay />
     </div>
   );
 }
